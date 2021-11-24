@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Diorama-1451.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mathi\Documents\Unreal Projects\Diorama\Intermediate\Build\Win64\DioramaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mathi\Documents\Unreal Projects\Diorama\Intermediate\Build\Win64\UE4Editor\Development\Diorama\Diorama.cpp.obj"
+"C:\Users\mathi\Documents\Unreal Projects\Diorama\Intermediate\Build\Win64\UE4Editor\Development\Diorama\WindAffected.cpp.obj"
+"C:\Users\mathi\Documents\Unreal Projects\Diorama\Intermediate\Build\Win64\UE4Editor\Development\Diorama\Diorama.init.gen.cpp.obj"
+"C:\Users\mathi\Documents\Unreal Projects\Diorama\Intermediate\Build\Win64\UE4Editor\Development\Diorama\WindAffected.gen.cpp.obj"
+"C:\Users\mathi\Documents\Unreal Projects\Diorama\Intermediate\Build\Win64\UE4Editor\Development\Diorama\Default.rc2.res"
+/OUT:"C:\Users\mathi\Documents\Unreal Projects\Diorama\Intermediate\Build\Win64\UE4Editor\Development\Diorama\UE4Editor-Diorama-1451.lib"

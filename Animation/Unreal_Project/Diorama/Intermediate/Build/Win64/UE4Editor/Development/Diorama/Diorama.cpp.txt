@@ -1,0 +1,2 @@
+C:\Users\mathi\Documents\Unreal Projects\Diorama\Intermediate\Build\Win64\UE4Editor\Development\Diorama\Definitions.Diorama.h
+C:\Users\mathi\Documents\Unreal Projects\Diorama\Source\Diorama\Diorama.h

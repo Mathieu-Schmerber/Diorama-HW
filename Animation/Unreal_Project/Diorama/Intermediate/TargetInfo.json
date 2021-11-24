@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Diorama",
+			"Path": "C:\\Users\\mathi\\Documents\\Unreal Projects\\Diorama\\Source\\Diorama.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DioramaEditor",
+			"Path": "C:\\Users\\mathi\\Documents\\Unreal Projects\\Diorama\\Source\\DioramaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

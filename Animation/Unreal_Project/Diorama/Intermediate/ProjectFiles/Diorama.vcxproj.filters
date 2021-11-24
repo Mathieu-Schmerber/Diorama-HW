@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Diorama.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CA835F5D-8C6A-479E-9F83-0B278AAB03F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Diorama.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DioramaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D984735C-0A25-405D-8E68-C0B91807788D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultLightmass.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultVirtualProductionUtilities.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{03BFE6E1-2995-4BE3-8514-5917C97E9276}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Source\Diorama">
+      <UniqueIdentifier>{4897E675-3EF5-469C-8CC9-1F5905800258}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Diorama\Diorama.Build.cs">
+      <Filter>Source\Diorama</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Diorama\Diorama.cpp">
+      <Filter>Source\Diorama</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Diorama\Diorama.h">
+      <Filter>Source\Diorama</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Diorama\WindAffected.cpp">
+      <Filter>Source\Diorama</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Diorama\WindAffected.h">
+      <Filter>Source\Diorama</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
